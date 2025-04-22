@@ -14,4 +14,3 @@ while(queue.length > 0){
 }
 
 return result;
-};
